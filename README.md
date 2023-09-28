@@ -1,2 +1,6 @@
 # Flight_Search_SMS
-Python project that sends a SMS when there is a low price on flights, using sheety API, google sheets and Twilio API
+This Flight Search Project is a Python application that allows users to search for and compare flights based on their preferences. With this tool, you can easily find and book the best flight options for your travel needs.
+
+Features
+Search for flights by specifying your departure and arrival locations, travel dates, and other preferences.
+Compare flight options and send SMS when a low price is spotted
